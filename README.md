@@ -7,10 +7,11 @@ The aim of this work is to design an application that would allow  transmission 
 <img src="https://user-images.githubusercontent.com/82365324/229105163-c21f046e-6200-40ef-bc7a-b5e66685ecae.gif" width="250" height="250"/>
   </div>
   
+  <div>
+<img src="https://user-images.githubusercontent.com/82365324/229151704-165c1f65-9c90-4a16-a213-918949aa74ca.gif" width="250" height="250"/>
+
+  </div>
 
 
 ## App preview:
 https://user-images.githubusercontent.com/82365324/229098032-d79bda2b-a89b-4945-854b-5d50eb860df9.mp4
-
-
-![Projekt bez tytułu (3)] (https://user-images.githubusercontent.com/82365324/229142131-489e72fa-5d4b-491f-8c44-dcf561f87020.gif)
