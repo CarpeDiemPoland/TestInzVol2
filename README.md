@@ -10,9 +10,8 @@ The aim of this work is to design an application that would allow  transmission 
   &emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://user-images.githubusercontent.com/82365324/229220462-2a786255-c5dc-4658-bfa2-cfc4c6dff86d.gif" width="250" height="250" />
 </div>
-  
 
-
+ 
 
 ## App preview:
 https://user-images.githubusercontent.com/82365324/229098032-d79bda2b-a89b-4945-854b-5d50eb860df9.mp4
