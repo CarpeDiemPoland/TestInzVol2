@@ -8,11 +8,10 @@ The aim of this work is to design an application that would allow  transmission 
 &emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://user-images.githubusercontent.com/82365324/229105163-c21f046e-6200-40ef-bc7a-b5e66685ecae.gif" width="250" height="250" />
   &emsp;&emsp;&emsp;&emsp;&emsp;
-<img src="https://user-images.githubusercontent.com/82365324/229219959-655c78f6-f77e-449f-900a-a06c2bf15061.gif" width="250" height="250" />
+<img src="https://user-images.githubusercontent.com/82365324/229220462-2a786255-c5dc-4658-bfa2-cfc4c6dff86d.gif" width="250" height="250" />
 </div>
   
 
-  
 
 
 ## App preview:
